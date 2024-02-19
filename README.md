@@ -6,7 +6,7 @@ Live Website link
 
 
 
-Steps on how to create GitHub page
+Steps on how to create GitHub page: 
 1.To publish a GitHub Pages site, go to the settings of the created repository. Look under "Code and Automation" and click on "Pages".
 
 2. In the "Source" section, select the branch you want to use. Then, click the "Save" button.
